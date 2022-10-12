@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @padmalaya-rawal
-- 👀 I’m interested in ...Electronics, CAD Desiging, 3D printing & Programming
+- 👀 I’m interested in ...Electronics, CAD Designing, 3D printing & Programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Hardware projects
 - 📫 How to reach me ...padmalayarawal@gmail.com
